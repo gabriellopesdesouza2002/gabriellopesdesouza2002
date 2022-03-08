@@ -1,6 +1,6 @@
 Olá! Sou Gabriel, tenho 19 anos e atualmente estou estudando e aplicando as seguintes tecnologias:
 
-•	Python 3 (Django, PyQT5, Selenium, Regexp, Testes, TDD, POO, Design Patterns, GoF e algoritmos).
+•	Python 3 (Selenium, Testes, POO, Algoritmos).
 
 •	SQL e bancos de dados:
 
