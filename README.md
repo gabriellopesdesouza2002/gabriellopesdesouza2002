@@ -9,3 +9,5 @@ Sou uma pessoa comprometida e apaixonada por aprender novas tecnologias e resolv
 Linkedin: www.linkedin.com/in/gabriel-lopes2002
 
 #### O temor do Senhor é o princípio da ciência; Os loucos desprezam a sabedoria e a instrução. - Provérbios: 1:7
+
+![bmc_qr](https://github.com/user-attachments/assets/1f2d0003-c3f7-4989-a6f1-e9f127832092)
