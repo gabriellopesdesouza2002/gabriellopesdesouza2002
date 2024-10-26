@@ -1,5 +1,5 @@
 # 💫 About Me / Sobre mim:
-👨‍💻 Atualmente estou trabalhando em: Criação de diversas funcionalidades com Python.<br>🔎 Procuro colaborar em: Bibliotecas open-source.<br>🤝 Sua ajuda é muito bem vinda com: Front-end e colaboração em projetos.<br>📖 Estou aprendendo muito sobre: Pypi e Odoo ERP.<br>❓ Pergunte-me sobre: Fatos biblicos, fatos cientificos e tecnologia<br>🤌 Uma curiosidade: Tenho uma gatinha muito preguiçosa.
+⏳ Tenho 22 anos.<br>👨‍💻 Atualmente estou trabalhando em: Criação de diversas funcionalidades com Python.<br>🔎 Procuro colaborar em: Bibliotecas open-source.<br>🤝 Sua ajuda é muito bem vinda com: Front-end e colaboração em projetos.<br>📖 Estou aprendendo muito sobre: Pypi e Odoo ERP.<br>❓ Pergunte-me sobre: Fatos biblicos, fatos cientificos e tecnologia<br>🤌 Uma curiosidade: Tenho uma gatinha muito preguiçosa.
 
 
 ## 🌐 Socials / Redes sociais:
