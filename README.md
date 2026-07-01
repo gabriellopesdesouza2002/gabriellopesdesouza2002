@@ -23,6 +23,16 @@
 **Ferramentas:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+## 🐳 Docker Hub
+
+APIs containerizadas e prontas para deploy — **688+ pulls** no total.
+
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/gabriellopesdesouza2002)
+
+[![whisper-api pulls](https://img.shields.io/docker/pulls/gabriellopesdesouza2002/whisper-api?style=for-the-badge&label=whisper-api)](https://hub.docker.com/r/gabriellopesdesouza2002/whisper-api) [![tesseract-ocr-api pulls](https://img.shields.io/docker/pulls/gabriellopesdesouza2002/tesseract-ocr-api?style=for-the-badge&label=tesseract-ocr-api)](https://hub.docker.com/r/gabriellopesdesouza2002/tesseract-ocr-api)
+
+[![imagefx-api pulls](https://img.shields.io/docker/pulls/gabriellopesdesouza2002/imagefx-api?style=for-the-badge&label=imagefx-api)](https://hub.docker.com/r/gabriellopesdesouza2002/imagefx-api) [![waifu2x-api pulls](https://img.shields.io/docker/pulls/gabriellopesdesouza2002/waifu2x-api?style=for-the-badge&label=waifu2x-api)](https://hub.docker.com/r/gabriellopesdesouza2002/waifu2x-api)
+
 ## 📊 GitHub Stats / O que venho fazendo
 
 ![](https://github-readme-stats.vercel.app/api?username=gabriellopesdesouza2002&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
