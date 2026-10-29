@@ -20,6 +20,8 @@ Sou desenvolvedor de software e analista de sistemas sênior, com atuação em *
 
 **EN:** Brazilian software developer and senior systems analyst focused on Python automation, API integrations, back-end systems and applied AI. I also build software products and contribute to open-source projects.
 
+**Portfólio técnico / Engineering evidence:** [4 merged open-source contributions, with code and test references](OPEN_SOURCE_WORK.md).
+
 ## 🛠️ Experiência na prática / What I work on
 
 - **Automações e integrações:** redução de tarefas repetitivas, comunicação entre sistemas e fluxos apoiados por APIs.
@@ -54,7 +56,7 @@ Sou desenvolvedor de software e analista de sistemas sênior, com atuação em *
 
 ## ✅ Contribuições open-source incorporadas / Merged PRs
 
-Algumas melhorias que propus e que foram integradas aos projetos de origem:
+Algumas melhorias que propus e que foram integradas aos projetos de origem. [Veja o problema, a solução, os testes e os PRs originais](OPEN_SOURCE_WORK.md):
 
 | Projeto | Contribuição |
 | --- | --- |
