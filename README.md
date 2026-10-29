@@ -14,7 +14,7 @@ Sou desenvolvedor de software e analista de sistemas sênior, com atuação em *
 
 - 👨‍💻 **No dia a dia:** Python, automação de processos, APIs e integração de sistemas.
 - 🧠 **Interesses atuais:** IA aplicada, Cloud, DevOps e Platform Engineering — sempre buscando aplicar o que estudo.
-- 🚀 **Também empreendo:** desenvolvo a **HacerteTech**, focada em sistemas e automações sob medida, e a **MedOrganiza**, um SaaS para o segmento farmacêutico.
+- 🚀 **Projetos próprios:** desenvolvo a **HacerteTech**, voltada a soluções digitais e automações para pequenas e médias empresas, e a **MedOrganiza**, um SaaS para o segmento farmacêutico.
 - 🤝 **Open source:** gosto de contribuir com correções objetivas, testes, integrações e melhorias de manutenção.
 - 🐈 **Fora do código:** tenho uma gatinha muito preguiçosa.
 
@@ -65,7 +65,7 @@ Algumas melhorias que propus e que foram integradas aos projetos de origem:
 
 ## 🚀 Produtos que estou construindo / Products I'm building
 
-- **HacerteTech:** sistemas, automações e integrações sob medida para empresas.
+- **HacerteTech:** soluções digitais, sistemas e automações direcionados a pequenas e médias empresas (PMEs).
 - **MedOrganiza:** SaaS para farmácias, com foco em organização de clientes e recompra de medicamentos.
 
 Os repositórios de produção desses produtos são privados. Aqui compartilho também bibliotecas, projetos independentes e contribuições à comunidade.
